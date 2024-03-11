@@ -1,0 +1,26 @@
+{
+  "name": "numav-js-light",
+  "version": "1.0.0",
+  "description": "Lightweight and efficient JavaScript library specifically designed for numerical averaging tasks. With NumAverage, you can quickly compute the mean of numeric values, making it easy to analyze data sets and derive meaningful insights.",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "numav-js-light": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TipkaLloid/numav-js-light.git"
+  },
+  "homepage": "https://github.com/TipkaLloid/numav-js-light/blob/main/README.md",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "TipkaLloid",
+  "license": "MIT"
+}
